@@ -2,7 +2,7 @@
 
 The generate_descriptors function was used to generate the smile data with descriptors for train and test. 
 
-## The Links for the datasets used for the compitition 
+## The Links for the datasets used for the competition 
 
 https://www.kaggle.com/datasets/x2022gmv/toxic-data
 
